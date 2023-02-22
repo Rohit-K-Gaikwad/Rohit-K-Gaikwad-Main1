@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/Rohit-K-Gaikwad"> <img src="welcome.svg"/> </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rohit-K-Gaikwad"> <img src="rohit.svg"/> <img src="gaikwad.svg"/> </a>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Rohit Gaikwad</h1>
 <h3 align="center">Passionate Software Developer</h3>
 
