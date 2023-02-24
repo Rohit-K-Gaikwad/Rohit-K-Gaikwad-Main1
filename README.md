@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rohit-K-Gaikwad"> <img src="rohit.svg"/> <img src="gaikwad.svg"/> </a>
+  <a href="https://github.com/Rohit-K-Gaikwad"> <img src="one.svg"/> </a>
 </p>
 
 
