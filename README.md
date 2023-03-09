@@ -14,7 +14,7 @@
 
 <b>*About Me*:</b> 
 
-🔭 I’m currently working on **STARWARs-API**
+🔭 I’m currently working on Django, Flask, & Fast-API
 
 💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux
 
