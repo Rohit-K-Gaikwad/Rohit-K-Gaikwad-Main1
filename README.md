@@ -14,9 +14,9 @@
 
 <b>*About Me*:</b> 
 
-🔭 I’m currently working on Django, Flask, & Fast-API
+🔭 A Enthusiast coder.
 
-💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux
+💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, AWS, PostgreeSQL, HTML, CSS
 
 
 👨‍💻 &nbsp;I am practising on [HackerRank](https://www.hackerrank.com/rgaikwad1998) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/rgaikwao45h)
