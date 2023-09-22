@@ -34,7 +34,7 @@
 <a href="https://fb.com/rohit gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohit gaikwad" height="30" width="40" /></a>
 <a href="https://instagram.com/rohhit_1303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohhit_1303" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rohitkgaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohitkgaikwad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rgaikwad1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rgaikwad1998" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rgaikwad1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rgaikwad1998" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rgaikwao45h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rgaikwao45h" height="30" width="40" /></a>
 </p>
 <br>
