@@ -14,7 +14,7 @@
 
 <b>*About Me*:</b> 
 
-🔭 A Enthusiast coder.
+🔭 A Software Developer .
 
 💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, AWS, PostgreeSQL, HTML, CSS
 
