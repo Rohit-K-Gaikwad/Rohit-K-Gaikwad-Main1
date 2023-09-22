@@ -73,3 +73,5 @@
 <p align="center">                           
   <a href="https://github.com/Rohit-K-Gaikwad"><img align=center  src="https://hits.sh/github.com/Rohit-K-Gaikwad.svg?label=Visitors&extraCount=50&color=526afd&labelColor=0b861a" alt="Visitors"></a>   
 </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Rohit-K-Gaikwad&show_icons=true alt=Rohit-K-Gaikwad /> </p>
