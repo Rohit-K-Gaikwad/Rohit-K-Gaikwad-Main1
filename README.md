@@ -39,28 +39,8 @@
 </p>
 <br>
 
-<b>*GitHub Stats*:</b> \
-  <a href="https://github.com/Rohit-K-Gaikwad">
-  <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
-  </a>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Rohit-K-Gaikwad&show_icons=true alt=Rohit-K-Gaikwad /> </p>
   
-<p align="center">
-<table>
-<tr>
-  
-  <td>
-  <a href="https://github.com/Rohit-K-Gaikwad">
-  <img align="center" src="https://github-readme-stats-Rohit-K-Gaikwad.vercel.app/api?username=Rohit-K-Gaikwad&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Rohit's Github Stats" height="180rem" />
-  </a>
-  </td>
-    
-  <td> 
-<a href="https://github.com/Rohit-K-Gaikwad"><img align="center" src="https://github-readme-stats-Rohit-K-Gaikwad.vercel.app/api/top-langs/?username=Rohit-K-Gaikwad&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
-  </td>
-    
-</tr>
-</table>
-</p>
 
 <b>*Languages And Tools*:</b> 
 
@@ -74,4 +54,4 @@
   <a href="https://github.com/Rohit-K-Gaikwad"><img align=center  src="https://hits.sh/github.com/Rohit-K-Gaikwad.svg?label=Visitors&extraCount=50&color=526afd&labelColor=0b861a" alt="Visitors"></a>   
 </p>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Rohit-K-Gaikwad&show_icons=true alt=Rohit-K-Gaikwad /> </p>
+
