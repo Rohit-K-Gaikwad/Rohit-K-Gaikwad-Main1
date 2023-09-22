@@ -39,9 +39,10 @@
 </p>
 <br>
 
-<b>*GitHub Stats*:</b> 
-  
-  <b> </b> 
+<b>*GitHub Stats*:</b> \
+  <a href="https://github.com/Rohit-K-Gaikwad">
+  <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
+  </a>
   
 <p align="center">
 <table>
